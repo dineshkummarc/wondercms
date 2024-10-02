@@ -22,9 +22,7 @@
 
 ## <div align="center">**[Demo](https://www.wondercms.com/demo) • [Download](https://www.wondercms.com/latest) • [Community](https://www.wondercms.com/community) • [News](https://www.wondercms.com/news) • [Donate](https://www.wondercms.com/donate)**  • [Buy merch](https://swag.wondercms.com)</div>
 
-
 [![What is WonderCMS? Introduction](https://www.wondercms.com/data/files/wondercms-introduction.png)](https://www.youtube.com/watch?v=gtkoi9X1L3g)
-
 
 ## Small and simple flat file CMS
   - **No configuration needed - unzip and upload.**
@@ -192,7 +190,6 @@ Also listed on the official [WonderCMS website](https://www.wondercms.com/donors
 - [List of contributors](https://www.wondercms.com/contributors)
 - [All WonderCMS related links](https://www.wondercms.com/links)
 
-
 #### Community
 - [Community](https://www.wondercms.com/community)
 
@@ -201,14 +198,12 @@ Also listed on the official [WonderCMS website](https://www.wondercms.com/donors
 - [Twitter](https://twitter.com/wondercms)
 - [Reddit](https://reddit.com/r/WonderCMS)
 
-
 #### Github
 - [Docs/Wiki](https://github.com/WonderCMS/wondercms/wiki#wondercms-documentation)
    - [Common questions](https://github.com/WonderCMS/wondercms/wiki#common-questions--help)
    - [List of common errors](https://github.com/WonderCMS/wondercms/wiki/List-of-common-errors#troubleshooting-common-errors)
 - [How to create a theme](https://github.com/WonderCMS/wondercms/wiki/Create-theme-in-8-easy-steps)
 - [How to create a plugin](https://github.com/WonderCMS/wondercms/wiki/List-of-hooks)
-
 
 #### Hosting and install tutorial
 - [Hosting with WonderCMS pre-installed](https://www.wondercms.com/hosting)
